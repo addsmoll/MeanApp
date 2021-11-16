@@ -10,7 +10,7 @@
 	},
 	"dependencies": {
 		"async": "^2.5.0",
-		"aws-sdk": "^2.130.0",
+		"aws-sdk": "^2.814.0",
 		"bcrypt": "3.0.2",
 		"bluebird": "^3.5.0",
 		"body-parser": "^1.18.1",
